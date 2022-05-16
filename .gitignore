@@ -7,3 +7,5 @@ CORA/models/all_w100.tsv
 CORA/models/mGEN_model.zip
 CORA/models/mDPR_biencoder_best.cpt
 CORA/mGEN_model/pytorch_model.bin
+CORA/mGEN_model/*
+CORA/mGEN_models/*
